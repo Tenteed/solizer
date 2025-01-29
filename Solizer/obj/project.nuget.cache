@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dInTGJsLxpc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tented\\dev\\dotnet\\Solizer\\Solizer\\Solizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tented\\.nuget\\packages\\system.codedom\\9.0.1\\system.codedom.9.0.1.nupkg.sha512",
+    "C:\\Users\\Tented\\.nuget\\packages\\system.management\\9.0.1\\system.management.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
